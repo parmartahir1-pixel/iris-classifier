@@ -1,0 +1,13 @@
+# Iris Flower Classifier 
+
+A machine learning project that classifies iris flowers with **100% accuracy** using Decision Trees.
+
+## Features
+- 100% accuracy on test data
+- Feature importance analysis 
+- Confusion matrix visualization
+- Model persistence with joblib
+
+## Quick Start
+```bash
+python src/train.py
